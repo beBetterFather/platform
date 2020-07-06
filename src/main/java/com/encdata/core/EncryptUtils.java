@@ -1,4 +1,4 @@
-package com.enn.core;
+package com.encdata.core;
 
 import org.apache.commons.lang3.StringUtils;
 

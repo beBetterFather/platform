@@ -3,7 +3,7 @@
  * 
  * $Id: PropertiesLoader.java 1690 2012-02-22 13:42:00Z calvinxiu $
  */
-package com.enn.core;
+package com.encdata.core;
 
 import org.apache.commons.io.IOUtils;
 import org.springframework.core.io.DefaultResourceLoader;

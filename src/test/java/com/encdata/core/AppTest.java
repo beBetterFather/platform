@@ -1,4 +1,4 @@
-package com.enn.core;
+package com.encdata.core;
 
 import static org.junit.Assert.assertTrue;
 
